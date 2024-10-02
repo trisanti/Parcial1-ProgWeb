@@ -1,0 +1,20 @@
+#titulo_pagina{
+    color: #ebebeb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: brown;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 5); 
+}
+
+#horario{
+    color: #dfdfdf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+    background-color: brown;
+    border-radius: 4%;
+    display: inline-block;
+}
+
+#tabla_products{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
